@@ -8,5 +8,3 @@ function solution(n) {
   }
   DFS(n);
 }
-
-solution(3);

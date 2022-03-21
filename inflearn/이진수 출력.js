@@ -10,5 +10,3 @@ function solution(n) {
   DFS(n);
   return answer;
 }
-
-solution(11); // 1011
